@@ -5,13 +5,13 @@
 }
 body{
     
-    background-image: url(images/silver-cornet-instrument-on-sheet-music.jpg);
+    background-image: url(images/small-guitar-black-and-white.jpg);
     background-size: cover ;
 }
 .top{
     display: inline-block;
     width: 50%;
-    color: black;
+    color:whitesmoke;
     font-size:30px;
     text-align:center;
 }
@@ -108,4 +108,19 @@ input{
 .search button img{
     width: 25px;
 
+}
+.dd{
+  color:black;
+  width: 49%;
+  display: inline-block;
+  background-color:bisque;
+  
+}
+p{
+  color: aliceblue;
+}
+img{
+  display: inline-block;
+  width: 49%;
+  height: auto;
 }
